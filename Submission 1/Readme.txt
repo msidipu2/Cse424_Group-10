@@ -3,7 +3,7 @@ Link of the paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9003
 
 Link to unlisted YouTube video: https://youtu.be/xHxpzIc-4J4?si=b2eRiLH5nxQNEWZL
 
-Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/e/2PACX-1vTeLohNaCGEKNtzFf8YaSPvxtrFg69iT-NXeMjxaUtL9hny7JYZKuVU0VyiR-6-XAHvPibVLEjjzzuI/pub?start=false&loop=false&delayms=3000
+Public link to the slide (Anyone on the internet can view without login): https://docs.google.com/presentation/d/15_402MFyt5ox9nED_GDjJJoQFOT82P5JNXKDeSmHkR8/edit?usp=sharing
 
 
 Group Number:
