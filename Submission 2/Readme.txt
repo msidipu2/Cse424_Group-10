@@ -1,5 +1,5 @@
-Paper title:  
-Link of the paper: 
+Paper title: Facial Expression Recognition Using Dynamic Local Ternary Patterns With Kernel Extreme Learning Machine Classifier
+Link of the paper: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9523559
 
 Link to unlisted YouTube video: 
 
